@@ -1,5 +1,7 @@
 package DZ2;
 
+import java.io.File;
+
 public class task1DZ2 {
     public static void main(String[] args) throws Exception {
         Object lib;
